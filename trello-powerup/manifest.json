@@ -5,7 +5,7 @@
   "icon": {
     "url": "./images/logo.png"
   },
-  "author": "Trello Inc",
+  "author": "Nate Roling",
   "capabilities": [
     "attachment-sections",
     "attachment-thumbnail",
@@ -20,7 +20,7 @@
   ],
   "connectors": {
     "iframe": {
-      "url": "./index.html"
+      "url": "index.html"
     }
   },
   "recommend": {
