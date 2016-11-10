@@ -1,12 +1,22 @@
 {
   "name": "Autonater",
-  "description": "Nate's Trello Powerup",
+  "description": "",
   "details": "Nate's Trello Powerup",
   "icon": {
     "url": "./images/logo.png"
   },
   "author": "Nate Roling",
   "capabilities": [
+    "attachment-sections",
+    "attachment-thumbnail",
+    "board-buttons",
+    "callback",
+    "card-badges",
+    "card-buttons",
+    "card-detail-badges",
+    "card-from-url",
+    "format-url",
+    "show-settings"
   ],
   "connectors": {
     "iframe": {
